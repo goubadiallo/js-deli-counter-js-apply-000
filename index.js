@@ -1,5 +1,5 @@
 function takeANumber(currentline){
-  
+  var number = 1
   
 }
 
