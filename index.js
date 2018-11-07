@@ -1,3 +1,6 @@
+function takeANumber(){
+  
+}
 
     
 function takeANumber(currentline, newname){
