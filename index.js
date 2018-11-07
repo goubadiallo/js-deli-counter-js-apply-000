@@ -1,4 +1,5 @@
-function takeANumber(){
+function takeANumber(currentline){
+  
   
 }
 
