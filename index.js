@@ -1,7 +1,10 @@
 function takeANumber(currentline){
   var number = 1
+  number = 1+
   currentline.push(number)
   return number
+  
+  
 }
 
     
